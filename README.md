@@ -15,16 +15,18 @@ This repository contains a dashboard that visualizes sales trends for Adidas US 
 ## Data
 
 The dataset includes sales data for Adidas US from 2020 to 2021, with attributes such as:
-- Date
-- Product Category
+- Retailer
+- Retailer ID
+- Invoice date
 - Region
-- Sales Volume
-- Revenue
+- State
+- City
+- Product
+- Price per Unit
+- Units Sold
+- Total Sales
+- Operating Margin
+- Sales Method
 
-## Visualizations
-
-- **Sales Trend Over Time**: Line charts showing month-over-month sales performance.
-- **Top Products**: Bar charts highlighting best-selling products.
-- **Regional Sales Distribution**: Maps and charts depicting sales across regions.
-- **Category Breakdown**: Pie charts and bar charts showing sales by product category.
+Here I have attached the link of actual dataset that I used to implement this project. [Click Here](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
 
